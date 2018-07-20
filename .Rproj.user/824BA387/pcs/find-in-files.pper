@@ -4,7 +4,7 @@
         "filePatterns" : [
         ],
         "path" : "~/GIT/Novo Blog/R-Music/r-music.github.io",
-        "query" : "#4",
+        "query" : "700",
         "regex" : false
     }
 }
