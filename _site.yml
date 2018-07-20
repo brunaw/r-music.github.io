@@ -3,7 +3,7 @@ title: "R-Music"
 description: |
   Music data extraction & analysis in R
 output_dir: "_site"
-base_url: https://r-music.github.io/about.html
+base_url: https://r-music.github.io
 navbar:
   right:
     - text: "Home"
