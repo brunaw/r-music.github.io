@@ -1,0 +1,4 @@
+devtools::install_github("radixpub/radix-r")
+library(radix)
+
+create_blog(dir = "blog/r-music", title = "My Blog")

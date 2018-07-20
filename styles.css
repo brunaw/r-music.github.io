@@ -1,0 +1,13 @@
+.radix-site-nav {
+    color: rgba(255, 255, 255, 0.8);
+    background-color: #990000;
+    font-size: 15px;
+    font-weight: 300;
+}
+  
+d-title {
+  background-image: url('https://r-music.github.io/img/main/logo.png');
+  background-repeat: no-repeat;
+  background-position: 65% 70%;
+  background-size: 8%;
+}

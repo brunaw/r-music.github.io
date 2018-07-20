@@ -1,0 +1,10 @@
+{
+    "dialog-state" : {
+        "caseSensitive" : false,
+        "filePatterns" : [
+        ],
+        "path" : "~/GIT/Novo Blog/R-Music/r-music.github.io",
+        "query" : "#4",
+        "regex" : false
+    }
+}
